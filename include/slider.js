@@ -1,1 +1,1 @@
-console.log("I'm a slider");
+console.log("I'm a slider")
